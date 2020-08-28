@@ -16,3 +16,7 @@ WHERE city='San Jose'
 
 ### Query for extracting data from global weather trend dataframe.
 SELECT * FROM global_data
+
+### References
+- [Sources code for the output_toggle.tpl file](https://github.com/damianavila/blog/blob/master/posts/hide-the-input-cells-from-your-ipython-slides.ipynb)
+- [Udacity](https://www.udacity.com)
